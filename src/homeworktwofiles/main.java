@@ -68,5 +68,5 @@ public class main {
             e.printStackTrace();
         }
     }
-    //public boolean contains(CharSequence s){}
+    
 }
